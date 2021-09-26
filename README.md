@@ -1,2 +1,2 @@
 # Scientific-calculator
-This is a calculator to perform various operations include trigonometric relationships and many more.
+calculator.cpp is a calculator. Initiaally it display a main menu to choose the calculator type. If a user choose standard calculator it shows operations like addition,Subtraction,Multipilication,Division and Modulous and also more like go to previous menu or exit. And anothetr option with standard calculator is scientific calculator which shows options like Square,cube,Power etc.. and many more just go throgh once and analyse it..
